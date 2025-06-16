@@ -23,7 +23,7 @@ Getting Started:
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/your-username/shopping-cart-app.git
+git clone https://github.com/Muhammad-Salman696/mini-shopping-cart.git
 cd shopping-cart-app
 2. Install dependencies
 npm install
